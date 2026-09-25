@@ -1,0 +1,11 @@
+# NetBeans / build
+/build/
+/dist/
+/nbproject/private/
+*.class
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
